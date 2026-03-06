@@ -1,0 +1,38 @@
+/* Estilo general para fieldsets */
+fieldset {
+  border: 2px solid #72a2d6;
+  margin-bottom: 20px;
+  background-color: #8d2828 !important;
+  width: 100%;         /* <- Asegura que ocupe todo el ancho disponible */
+  box-sizing: border-box;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,.1);
+}
+
+/* Legenda destacada */
+legend {
+  font-weight: bold;
+  color: #1d1d1d;
+  font-size: 1.2rem;
+  padding: 0 10px;
+}
+
+/* Etiquetas e inputs */
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: 500;
+  color: #39493e;
+}
+
+input[type="text"],
+input[type="email"],
+select {
+  width: 100%;
+  padding: 8px;
+  margin-top: 4px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}

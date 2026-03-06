@@ -1,0 +1,504 @@
+POST:
+Array
+(
+    [csrf] => 902a79f1fa2b836af3f97ca5d3843a8f1f5431b95728d5434a6f3672bd1e6c4a
+    [id] => 0
+    [copia_credelec] => SI
+    [fecha_form] => 2026-03-06
+    [folio_form] => 1235
+    [paterno] => DOMINGUEZ
+    [materno] => TORRES
+    [nombre] => JESUS IVAN
+    [dianac] => 05
+    [mesnac] => 10
+    [yearnac] => 1983
+    [genero] => M
+    [clave_elector] => 123456789123658978
+    [escolaridad] => certificacion
+    [afinidad] => PT
+    [otro] => 
+    [calle] => GOMEZ AZCARATE
+    [numext] => 150
+    [numint] => 
+    [cp] => 78230
+    [colonia] => LA VICTORIA
+    [idedo] => SAN LUIS POTOSI
+    [idmunicalc_locked] => SAN LUIS POTOSI
+    [seccion] => 791
+    [cel] => 4443685127
+    [telpart] => 
+    [teloficina] => 
+    [email] => 
+    [facebook] => 
+    [twitter] => 
+    [instag] => 
+    [observacion] => 
+    [estatus] => ACTIVO
+    [edo_form] => SAN LUIS POTOSI
+    [distfed_form] => 5
+    [tipo_form] => 
+    [num_ruta] => 
+    [estrucasoc] => JESUS IVAN DOMINGUEZ TORRES
+    [cargo_proponente] => DESCONOCIDO
+    [tel_proponente] => 4441579563
+    [figura] => distfed
+    [tiporeg] => NORMAL
+)
+
+FILES:
+Array
+(
+    [foto] => Array
+        (
+            [name] => istockphoto-1200677760-612x612-men.jpg
+            [full_path] => istockphoto-1200677760-612x612-men.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Users\CGIA-24\AppData\Local\Temp\phpD2FB.tmp
+            [error] => 0
+            [size] => 24493
+        )
+
+    [foto_ine] => Array
+        (
+            [name] => istockphoto-1200677760-612x612-men.jpg
+            [full_path] => istockphoto-1200677760-612x612-men.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Users\CGIA-24\AppData\Local\Temp\phpD2FC.tmp
+            [error] => 0
+            [size] => 24493
+        )
+
+)
+
+POST:
+Array
+(
+    [csrf] => 902a79f1fa2b836af3f97ca5d3843a8f1f5431b95728d5434a6f3672bd1e6c4a
+    [id] => 0
+    [copia_credelec] => SI
+    [fecha_form] => 2026-03-06
+    [folio_form] => 1235
+    [paterno] => DOMINGUEZ
+    [materno] => TORRES
+    [nombre] => JESUS IVAN
+    [dianac] => 05
+    [mesnac] => 10
+    [yearnac] => 1983
+    [genero] => M
+    [clave_elector] => 123456789123658978
+    [escolaridad] => certificacion
+    [afinidad] => PT
+    [otro] => 
+    [calle] => GOMEZ AZCARATE
+    [numext] => 150
+    [numint] => 
+    [cp] => 78230
+    [colonia] => LA VICTORIA
+    [idedo] => SAN LUIS POTOSI
+    [idmunicalc_locked] => SAN LUIS POTOSI
+    [seccion] => 791
+    [cel] => 4443685127
+    [telpart] => 
+    [teloficina] => 
+    [email] => 
+    [facebook] => 
+    [twitter] => 
+    [instag] => 
+    [observacion] => 
+    [estatus] => ACTIVO
+    [edo_form] => SAN LUIS POTOSI
+    [distfed_form] => 5
+    [tipo_form] => 
+    [num_ruta] => 
+    [estrucasoc] => JESUS IVAN DOMINGUEZ TORRES
+    [cargo_proponente] => DESCONOCIDO
+    [tel_proponente] => 4441579563
+    [figura] => distfed
+    [tiporeg] => NORMAL
+)
+
+FILES:
+Array
+(
+    [foto] => Array
+        (
+            [name] => istockphoto-1200677760-612x612-men.jpg
+            [full_path] => istockphoto-1200677760-612x612-men.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Users\CGIA-24\AppData\Local\Temp\phpCDA.tmp
+            [error] => 0
+            [size] => 24493
+        )
+
+    [foto_ine] => Array
+        (
+            [name] => istockphoto-1200677760-612x612-men.jpg
+            [full_path] => istockphoto-1200677760-612x612-men.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Users\CGIA-24\AppData\Local\Temp\phpCDB.tmp
+            [error] => 0
+            [size] => 24493
+        )
+
+)
+
+POST:
+Array
+(
+    [csrf] => 902a79f1fa2b836af3f97ca5d3843a8f1f5431b95728d5434a6f3672bd1e6c4a
+    [id] => 0
+    [copia_credelec] => SI
+    [fecha_form] => 2026-03-06
+    [folio_form] => 1235
+    [paterno] => DOMINGUEZ
+    [materno] => TORRES
+    [nombre] => JESUS IVAN
+    [dianac] => 05
+    [mesnac] => 10
+    [yearnac] => 1983
+    [genero] => M
+    [clave_elector] => 123456789123658978
+    [escolaridad] => certificacion
+    [afinidad] => PT
+    [otro] => 
+    [calle] => GOMEZ AZCARATE
+    [numext] => 150
+    [numint] => 
+    [cp] => 78230
+    [colonia] => LA VICTORIA
+    [idedo] => SAN LUIS POTOSI
+    [idmunicalc_locked] => SAN LUIS POTOSI
+    [seccion] => 791
+    [cel] => 4443685127
+    [telpart] => 
+    [teloficina] => 
+    [email] => 
+    [facebook] => 
+    [twitter] => 
+    [instag] => 
+    [observacion] => 
+    [estatus] => ACTIVO
+    [edo_form] => SAN LUIS POTOSI
+    [distfed_form] => 5
+    [tipo_form] => 
+    [num_ruta] => 
+    [estrucasoc] => JESUS IVAN DOMINGUEZ TORRES
+    [cargo_proponente] => DESCONOCIDO
+    [tel_proponente] => 4441579563
+    [figura] => distfed
+    [tiporeg] => NORMAL
+)
+
+FILES:
+Array
+(
+    [foto] => Array
+        (
+            [name] => istockphoto-1200677760-612x612-men.jpg
+            [full_path] => istockphoto-1200677760-612x612-men.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Users\CGIA-24\AppData\Local\Temp\phpF2E6.tmp
+            [error] => 0
+            [size] => 24493
+        )
+
+    [foto_ine] => Array
+        (
+            [name] => istockphoto-1200677760-612x612-men.jpg
+            [full_path] => istockphoto-1200677760-612x612-men.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Users\CGIA-24\AppData\Local\Temp\phpF2E7.tmp
+            [error] => 0
+            [size] => 24493
+        )
+
+)
+
+POST:
+Array
+(
+    [csrf] => 902a79f1fa2b836af3f97ca5d3843a8f1f5431b95728d5434a6f3672bd1e6c4a
+    [id] => 0
+    [copia_credelec] => SI
+    [fecha_form] => 2026-03-06
+    [folio_form] => 1235
+    [paterno] => DOMINGUEZ
+    [materno] => TORRES
+    [nombre] => JESUS IVAN
+    [dianac] => 05
+    [mesnac] => 10
+    [yearnac] => 1983
+    [genero] => M
+    [clave_elector] => 123456789123658978
+    [escolaridad] => certificacion
+    [afinidad] => PT
+    [otro] => 
+    [calle] => GOMEZ AZCARATE
+    [numext] => 150
+    [numint] => 
+    [cp] => 78230
+    [colonia] => LA VICTORIA
+    [idedo] => SAN LUIS POTOSI
+    [idmunicalc_locked] => SAN LUIS POTOSI
+    [seccion] => 791
+    [cel] => 4443685127
+    [telpart] => 
+    [teloficina] => 
+    [email] => 
+    [facebook] => 
+    [twitter] => 
+    [instag] => 
+    [observacion] => 
+    [estatus] => ACTIVO
+    [edo_form] => SAN LUIS POTOSI
+    [distfed_form] => 5
+    [tipo_form] => 
+    [num_ruta] => 
+    [estrucasoc] => JESUS IVAN DOMINGUEZ TORRES
+    [cargo_proponente] => DESCONOCIDO
+    [tel_proponente] => 4441579563
+    [figura] => distfed
+    [tiporeg] => NORMAL
+)
+
+FILES:
+Array
+(
+    [foto] => Array
+        (
+            [name] => istockphoto-1200677760-612x612-men.jpg
+            [full_path] => istockphoto-1200677760-612x612-men.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Users\CGIA-24\AppData\Local\Temp\phpB81.tmp
+            [error] => 0
+            [size] => 24493
+        )
+
+    [foto_ine] => Array
+        (
+            [name] => istockphoto-1200677760-612x612-men.jpg
+            [full_path] => istockphoto-1200677760-612x612-men.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Users\CGIA-24\AppData\Local\Temp\phpB82.tmp
+            [error] => 0
+            [size] => 24493
+        )
+
+)
+
+POST:
+Array
+(
+    [csrf] => 902a79f1fa2b836af3f97ca5d3843a8f1f5431b95728d5434a6f3672bd1e6c4a
+    [id] => 0
+    [copia_credelec] => SI
+    [fecha_form] => 2026-03-06
+    [folio_form] => 1235
+    [paterno] => DOMINGUEZ
+    [materno] => TORRES
+    [nombre] => JESUS IVAN
+    [dianac] => 05
+    [mesnac] => 10
+    [yearnac] => 1983
+    [genero] => M
+    [clave_elector] => 123456789123658978
+    [escolaridad] => certificacion
+    [afinidad] => PT
+    [otro] => 
+    [calle] => GOMEZ AZCARATE
+    [numext] => 150
+    [numint] => 
+    [cp] => 78230
+    [colonia] => LA VICTORIA
+    [idedo] => SAN LUIS POTOSI
+    [idmunicalc_locked] => SAN LUIS POTOSI
+    [seccion] => 791
+    [cel] => 4443685127
+    [telpart] => 
+    [teloficina] => 
+    [email] => 
+    [facebook] => 
+    [twitter] => 
+    [instag] => 
+    [observacion] => 
+    [estatus] => ACTIVO
+    [edo_form] => SAN LUIS POTOSI
+    [distfed_form] => 5
+    [tipo_form] => 
+    [num_ruta] => 
+    [estrucasoc] => JESUS IVAN DOMINGUEZ TORRES
+    [cargo_proponente] => DESCONOCIDO
+    [tel_proponente] => 4441579563
+    [figura] => distfed
+    [tiporeg] => NORMAL
+)
+
+FILES:
+Array
+(
+    [foto] => Array
+        (
+            [name] => istockphoto-1200677760-612x612-men.jpg
+            [full_path] => istockphoto-1200677760-612x612-men.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Users\CGIA-24\AppData\Local\Temp\php93ED.tmp
+            [error] => 0
+            [size] => 24493
+        )
+
+    [foto_ine] => Array
+        (
+            [name] => istockphoto-1200677760-612x612-men.jpg
+            [full_path] => istockphoto-1200677760-612x612-men.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Users\CGIA-24\AppData\Local\Temp\php93EE.tmp
+            [error] => 0
+            [size] => 24493
+        )
+
+)
+
+POST:
+Array
+(
+    [csrf] => 3faa59497f29d0084686f9955856125b539a3ed5db931fd01596fb8f1638fc9d
+    [id] => 0
+    [copia_credelec] => SI
+    [fecha_form] => 2026-03-06
+    [folio_form] => 1235
+    [paterno] => DOMINGUEZ
+    [materno] => TORRES
+    [nombre] => JESUS IVAN
+    [dianac] => 15
+    [mesnac] => 12
+    [yearnac] => 2009
+    [genero] => M
+    [clave_elector] => 123456789123658975
+    [escolaridad] => posgrado
+    [afinidad] => PVEM
+    [otro] => 
+    [calle] => GOMEZ AZCARATE
+    [numext] => 150
+    [numint] => 
+    [cp] => 78230
+    [colonia] => LA VICTORIA
+    [idedo] => SAN LUIS POTOSI
+    [idmunicalc_locked] => SAN LUIS POTOSI
+    [seccion] => 791
+    [cel] => 4443685127
+    [telpart] => 
+    [teloficina] => 
+    [email] => 
+    [facebook] => 
+    [twitter] => 
+    [instag] => 
+    [observacion] => 
+    [estatus] => ACTIVO
+    [edo_form] => SAN LUIS POTOSI
+    [distfed_form] => 5
+    [tipo_form] => 
+    [num_ruta] => 
+    [estrucasoc] => JESUS IVAN DOMINGUEZ TORRES
+    [cargo_proponente] => DESCONOCIDO
+    [tel_proponente] => 4441579563
+    [figura] => distfed
+    [tiporeg] => NORMAL
+)
+
+FILES:
+Array
+(
+    [foto] => Array
+        (
+            [name] => istockphoto-1200677760-612x612-men.jpg
+            [full_path] => istockphoto-1200677760-612x612-men.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Users\CGIA-24\AppData\Local\Temp\php894B.tmp
+            [error] => 0
+            [size] => 24493
+        )
+
+    [foto_ine] => Array
+        (
+            [name] => istockphoto-1200677760-612x612-men.jpg
+            [full_path] => istockphoto-1200677760-612x612-men.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Users\CGIA-24\AppData\Local\Temp\php894C.tmp
+            [error] => 0
+            [size] => 24493
+        )
+
+)
+
+POST:
+Array
+(
+    [csrf] => 977474ee2e2187f8e1d969909f8f086ff4e1ac48daae128ad4d863dce020f268
+    [id] => 0
+    [copia_credelec] => SI
+    [fecha_form] => 2026-03-06
+    [folio_form] => 1233
+    [paterno] => DOMINGUEZ
+    [materno] => TORRES
+    [nombre] => JESUS IVAN
+    [dianac] => 05
+    [mesnac] => 10
+    [yearnac] => 1983
+    [genero] => M
+    [clave_elector] => 123456789123658974
+    [escolaridad] => diplomado
+    [afinidad] => PVEM
+    [otro] => 
+    [calle] => GOMEZ AZCARATE
+    [numext] => 150
+    [numint] => 
+    [cp] => 78230
+    [colonia] => LA VICTORIA
+    [idedo] => SAN LUIS POTOSI
+    [idmunicalc_locked] => SAN LUIS POTOSI
+    [seccion] => 790
+    [cel] => 4443685127
+    [telpart] => 
+    [teloficina] => 
+    [email] => 
+    [facebook] => 
+    [twitter] => 
+    [instag] => 
+    [observacion] => 
+    [estatus] => ACTIVO
+    [edo_form] => SAN LUIS POTOSI
+    [distfed_form] => 5
+    [tipo_form] => 
+    [num_ruta] => 
+    [estrucasoc] => JESUS IVAN DOMINGUEZ TORRES
+    [cargo_proponente] => DESCONOCIDO
+    [tel_proponente] => 4441579563
+    [figura] => distfed
+    [tiporeg] => NORMAL
+)
+
+FILES:
+Array
+(
+    [foto] => Array
+        (
+            [name] => istockphoto-1200677760-612x612-men.jpg
+            [full_path] => istockphoto-1200677760-612x612-men.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Users\CGIA-24\AppData\Local\Temp\php108.tmp
+            [error] => 0
+            [size] => 24493
+        )
+
+    [foto_ine] => Array
+        (
+            [name] => istockphoto-1200677760-612x612-men.jpg
+            [full_path] => istockphoto-1200677760-612x612-men.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Users\CGIA-24\AppData\Local\Temp\php109.tmp
+            [error] => 0
+            [size] => 24493
+        )
+
+)
+

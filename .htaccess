@@ -1,0 +1,44 @@
+# -------------------------
+# ACTIVAR REWRITE ENGINE
+# -------------------------
+# Necesario para usar RewriteRule y RewriteCond
+RewriteEngine On
+
+# RewriteCond %{HTTPS} off
+# RewriteCond %{HTTP_HOST} !^localhost [NC]
+# RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# -------------------------
+# ARCHIVO POR DEFECTO
+# -------------------------
+# Si alguien entra a /carpeta/, se cargará index.php
+DirectoryIndex index.php index.html table.php
+
+# -------------------------
+# EVITAR LISTADO DE DIRECTORIOS
+# -------------------------
+# Si no existe un index.php o index.html, mostrará 403 Forbidden
+# Options -Indexes
+
+# -------------------------
+# QUITAR EXTENSIÓN .php DE LA URL
+# -------------------------
+# Esto sirve cuando visitas: midominio.com/archivo
+# y en realidad carga archivo.php (pero no se muestra la extensión).
+# Solo aplica si no es un directorio físico.
+RewriteCond %{REQUEST_FILENAME} !-d
+# Comprueba si existe un archivo .php con ese nombre
+RewriteCond %{REQUEST_FILENAME}\.php -f
+# Reescribe la URL para servir el archivo .php
+RewriteRule ^(.*)$ $1.php [L]
+
+# -------------------------
+# REDIRECCIÓN 301 DE *.php A URL SIN EXTENSIÓN
+# -------------------------
+# Si alguien entra a archivo.php, será redirigido a archivo
+# (para no tener contenido duplicado)
+# RewriteCond %{THE_REQUEST} \s/+(.+?)\.php[\s?] [NC]
+# RewriteRule ^ %1 [R=301,L]
+
+# RedirectMatch 403 ^/config/
+# RedirectMatch 403 ^/helpers/

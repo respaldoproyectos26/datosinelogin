@@ -1,0 +1,73 @@
+POST:
+Array
+(
+    [csrf] => 3faa59497f29d0084686f9955856125b539a3ed5db931fd01596fb8f1638fc9d
+    [id] => 0
+    [copia_credelec] => SI
+    [fecha_form] => 2026-03-06
+    [folio_form] => 1233
+    [paterno] => DOMINGUEZ
+    [materno] => TORRES
+    [nombre] => JESSICA
+    [dianac] => 19
+    [mesnac] => 11
+    [yearnac] => 2010
+    [genero] => F
+    [clave_elector] => 123456789123658974
+    [escolaridad] => certificacion
+    [afinidad] => PVEM
+    [otro] => 
+    [calle] => GOMEZ AZCARATE
+    [numext] => 150
+    [numint] => 
+    [cp] => 78340
+    [colonia] => JULIAN CARRILLO
+    [idedo] => SAN LUIS POTOSI
+    [idmunicalc_locked] => SAN LUIS POTOSI
+    [seccion] => 792
+    [cel] => 4443685127
+    [telpart] => 
+    [teloficina] => 
+    [email] => 
+    [facebook] => 
+    [twitter] => 
+    [instag] => 
+    [observacion] => 
+    [estatus] => ACTIVO
+    [edo_form] => SAN LUIS POTOSI
+    [_num_ruta_ui] => 
+    [secciones_ruta] => 8
+    [tipo_form] => 
+    [num_ruta] => 
+    [estrucasoc] => JESUS IVAN DOMINGUEZ TORRES
+    [cargo_proponente] => DESCONOCIDO
+    [tel_proponente] => 4441579563
+    [figura] => RG
+    [tiporeg] => NORMAL
+)
+
+FILES:
+Array
+(
+    [foto] => Array
+        (
+            [name] => istockphoto-1200677760-612x612-men.jpg
+            [full_path] => istockphoto-1200677760-612x612-men.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Users\CGIA-24\AppData\Local\Temp\phpDE00.tmp
+            [error] => 0
+            [size] => 24493
+        )
+
+    [foto_ine] => Array
+        (
+            [name] => istockphoto-1200677760-612x612-men.jpg
+            [full_path] => istockphoto-1200677760-612x612-men.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Users\CGIA-24\AppData\Local\Temp\phpDE01.tmp
+            [error] => 0
+            [size] => 24493
+        )
+
+)
+

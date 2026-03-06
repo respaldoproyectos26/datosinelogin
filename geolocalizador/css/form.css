@@ -1,0 +1,47 @@
+form {
+      max-width: 800px;
+      margin: auto;
+      padding: 1rem;
+      font-family: Arial, sans-serif;
+    }
+
+    fieldset {
+      border: 1px solid #ccc;
+      padding: 1rem;
+      margin-bottom: 1.5rem;
+      border-radius: 5px;
+      background: #f9f9f9;
+    }
+
+    legend {
+      font-weight: bold;
+      padding: 0 10px;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 0.8rem;
+    }
+
+    input {
+      width: 100%;
+      padding: 6px;
+      margin-top: 4px;
+      box-sizing: border-box;
+    }
+
+    @media (min-width: 600px) {
+      label {
+        display: flex;
+        flex-direction: column;
+      }
+
+      input {
+        max-width: 400px;
+      }
+    }
+
+    button {
+      padding: 10px 20px;
+      font-size: 1rem;
+    }

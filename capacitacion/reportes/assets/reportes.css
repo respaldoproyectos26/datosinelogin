@@ -1,0 +1,7 @@
+body { background-color: #f8f9fa; }
+h2 { font-weight: bold; letter-spacing: 1px; }
+.card-body input, .card-body select { font-size: 0.9rem; }
+
+.kpi-card { background: #fff; }
+.kpi-title { font-size: .9rem; color:#6c757d; text-transform: uppercase; letter-spacing: .5px; }
+.kpi-value { font-size: 1.75rem; font-weight: 700; line-height: 1; }

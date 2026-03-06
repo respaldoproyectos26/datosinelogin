@@ -1,0 +1,70 @@
+/* Barra de filtros plegable */
+  .filters-bar { display:none; padding:.5rem; border:1px solid #ddd; border-radius:8px; margin-bottom:.75rem;}
+  .filters-grid { display:grid; grid-template-columns: repeat(auto-fit,minmax(180px,1fr)); gap:.5rem;}
+  .filters-grid input { width:100%; padding:.35rem .5rem; }
+
+table.dataTable th,
+table.dataTable td {
+  color: #000 !important;
+}
+
+/* Colores del encabezado */
+table.dataTable thead th {
+    background-color: #f8f9fa !important; /* gris claro como 'thead-light' */
+    color: #000 !important;
+}
+
+/* Colores del cuerpo */
+table.dataTable tbody td {
+    background-color: #ffffff !important;
+    color: #000 !important;
+}
+
+/* Tabla general */
+table.dataTable {
+    background-color: #fff !important;
+    color: #000 !important;
+    border-collapse: collapse;
+}
+
+/* Forzar texto negro y fondo blanco en DataTables */
+#tablaserverside .fondohead {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+}
+
+#tablaserverside.dataTable {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+}
+
+#tablaserverside.dataTable td {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+}
+
+
+/* También afecta a botones del encabezado y otros */
+#tablaserverside_wrapper .dataTables_info,
+#tablaserverside_wrapper .dataTables_length,
+#tablaserverside_wrapper .dataTables_filter,
+#tablaserverside_wrapper .dataTables_paginate,
+#tablaserverside_wrapper .dataTables_processing {
+    color: #000000 !important;
+}
+
+/* Opcional: sombreado claro en encabezado */
+#tablaserverside thead th {
+    background-color: #5d5d5d11 !important;
+    color: #f1f1f1 !important;
+    vertical-align: middle !important;
+}
+
+.dataTables_filter#tablaserverside thead tr th {
+    background-color: #5d5d5d11 !important;
+    color: #f1f1f1 !important;
+}
+
+.linea {
+    display: block;
+  }

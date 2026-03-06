@@ -1,0 +1,48 @@
+#mapa {
+    height: 500px;
+    width: 100%;
+    border: 2px solid #753232;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.filtros-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.gm-style-iw {
+  color: black !important;
+  font-weight: bold;
+}
+
+#mapa{
+  height: calc(100vh - 260px);
+  min-height: 520px;
+  width: 100%;
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  overflow: hidden;
+  color: black !important;
+}
+
+.filtros-container{ margin-bottom: .5rem; }
+
+/* Etiquetas de sección */
+.sec-label{
+  background: rgba(255,255,255,0.95);
+  border: 1px solid #999;
+  border-radius: 6px;
+  padding: 2px 6px;
+  font: 12px/1.2 Arial, sans-serif;
+  white-space: nowrap;
+  transform: translate(-50%, -100%); /* ancla arriba-centro del punto */
+  pointer-events: none;              /* no roba clics al mapa */
+  box-shadow: 0 1px 2px rgba(0,0,0,.25);
+}
+.sec-label--selected{
+  font-weight: 700;
+  border-color: #0b57d0;
+  box-shadow: 0 1px 4px rgba(11,87,208,.35);
+}
