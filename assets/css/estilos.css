@@ -9,10 +9,10 @@
   --sidebar-icon-size: 1.25rem;
 
   /* Colores */
-  --nav-bg: #0b2236;
+  --nav-bg: darkgreen; /*#0b2236;*/
   --panel-bg-2: rgba(70, 162, 47, 0.95);
   --text: #e8eef3;
-  --accent: #b03a3a;
+  --accent: green; /*#b03a3a;*/
   --muted: #aeb6bf;
 }
 

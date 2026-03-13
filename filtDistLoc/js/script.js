@@ -164,7 +164,7 @@ $(function () {
           data: null,
           render: function (data, type, row) {
             return `
-              <button class="btn btn-sm btn-primary editar-btn" data-id="${esc(row.id)}">
+              <button class="btn btn-sm btn-success editar-btn" data-id="${esc(row.id)}">
                 <i class="bi bi-pencil-square"></i>
               </button>
               <button class="btn btn-sm btn-danger eliminar-btn" data-id="${esc(row.id)}">

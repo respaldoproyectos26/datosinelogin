@@ -37,7 +37,7 @@ require_once path_join(APP_ROOT, 'includes', 'headerfiltrodatos.php');
 </div>
 
 <div class="my-2 d-flex mx-auto justify-content-center align-content-center">
-  <a class="btn btn-danger" href="../insertar_permiso.php">Agregar permiso</a>
+  <a class="btn btn-secondary" href="../insertar_permiso.php">Agregar permiso</a>
 </div>
 
 <div class="filters-bar" id="filtersBar">

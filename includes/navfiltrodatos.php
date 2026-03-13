@@ -91,7 +91,7 @@ function render_nav_items(bool $isSidebar = false) { ?>
   <?php endif; ?>
 
   <!-- CAPACITACIÓN -->
-  <?php if (can('ver_capacitacion')): ?>
+  <!-- <?php if (can('ver_capacitacion')): ?>
   <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle"
         data-bs-toggle="dropdown"
@@ -162,7 +162,7 @@ function render_nav_items(bool $isSidebar = false) { ?>
       <?php endif; ?>
     </ul>
   </li>
-  <?php endif; ?>
+  <?php endif; ?> -->
 
   <!-- GEOLOCALIZACIÓN -->
   <?php if (auth()->can('ver_geolocalizacion')): ?>

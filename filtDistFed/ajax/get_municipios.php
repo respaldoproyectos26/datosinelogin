@@ -11,7 +11,7 @@ try {
     echo json_encode(['error' => 'Estado requerido']); exit;
   }
 
-  $idedo = trim($_POST['idedo']);
+  $idedo = "SAN LUIS POTOSI";//trim($_POST['idedo']);
   $pdo = db();
 
   // municalc pertenece al estado (nomestado)

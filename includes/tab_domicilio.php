@@ -42,7 +42,7 @@
   </div>
 
   <div class="col-12 col-md-5">
-    <label for="idmunicalc" class="form-label">Municipio/Alcaldía *</label>
+    <label for="idmunicalc" class="form-label">Municipio *</label>
     <select name="idmunicalc" id="idmunicalc" class="form-select" disabled>
       <option value="">Escribe CP para fijar municipio</option>
     </select>
