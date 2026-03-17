@@ -41,7 +41,7 @@ style="min-height: calc(100vh - 116px); padding-top: 0px; padding-bottom: 60px;"
   </div>
 
   <div class="text-center mt-3">
-    <button class="btn btn-primary me-2" data-chart="barras">Barras</button>
+    <button class="btn btn-secondary me-2" data-chart="barras">Barras</button>
     <button class="btn btn-success me-2" data-chart="lineas">Líneas</button>
     <button class="btn btn-warning" data-chart="pastel" id="btnPastel" style="display:none">Pastel</button>
   </div>

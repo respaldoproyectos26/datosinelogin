@@ -1,0 +1,216 @@
+POST:
+Array
+(
+    [csrf] => f68479b49e87d5c01cb3dcfe4e53dd94dcdb15a8d906af2314b16f8191bd75df
+    [id] => 0
+    [copia_credelec] => SI
+    [fecha_form] => 2026-03-17
+    [folio_form] => 1235
+    [paterno] => MONCADA
+    [materno] => ALBA
+    [nombre] => LUZ VERONICA DEL CARMEN
+    [dianac] => 09
+    [mesnac] => 10
+    [yearnac] => 1980
+    [genero] => F
+    [clave_elector] => 123456789123658977
+    [escolaridad] => maestria
+    [afinidad] => PT
+    [otro] => 
+    [calle] => PLAZA ARBOLEDA
+    [numext] => 264
+    [numint] => 
+    [cp] => 78400
+    [colonia] => LOMA PRIETA
+    [idedo] => SAN LUIS POTOSI
+    [idmunicalc_locked] => SAN LUIS POTOSI
+    [seccion] => 789
+    [cel] => 4443685127
+    [telpart] => 
+    [teloficina] => 
+    [email] => 
+    [facebook] => 
+    [twitter] => 
+    [instag] => 
+    [observacion] => 
+    [estatus] => ACTIVO
+    [edo_form] => SAN LUIS POTOSI
+    [distfed_form] => 5
+    [tipo_form] => 
+    [num_ruta] => 
+    [estrucasoc] => 
+    [cargo_proponente] => 
+    [tel_proponente] => 
+    [figura] => distloc
+    [tiporeg] => NORMAL
+)
+
+FILES:
+Array
+(
+    [foto] => Array
+        (
+            [name] => istockphoto-1389348844-612x612-woman.jpg
+            [full_path] => istockphoto-1389348844-612x612-woman.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Users\CGIA-24\AppData\Local\Temp\php988C.tmp
+            [error] => 0
+            [size] => 30624
+        )
+
+    [foto_ine] => Array
+        (
+            [name] => istockphoto-1389348844-612x612-woman.jpg
+            [full_path] => istockphoto-1389348844-612x612-woman.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Users\CGIA-24\AppData\Local\Temp\php989D.tmp
+            [error] => 0
+            [size] => 30624
+        )
+
+)
+
+POST:
+Array
+(
+    [csrf] => f68479b49e87d5c01cb3dcfe4e53dd94dcdb15a8d906af2314b16f8191bd75df
+    [id] => 0
+    [copia_credelec] => SI
+    [fecha_form] => 2026-03-17
+    [folio_form] => 1236
+    [paterno] => VILLALBA
+    [materno] => HERNANDEZ
+    [nombre] => ARMANDO
+    [dianac] => 07
+    [mesnac] => 10
+    [yearnac] => 1992
+    [genero] => M
+    [clave_elector] => 123456789123658971
+    [escolaridad] => diplomado
+    [afinidad] => PT
+    [otro] => 
+    [calle] => CARMEN SERDAN
+    [numext] => 184
+    [numint] => 
+    [cp] => 78230
+    [colonia] => LA VICTORIA
+    [idedo] => SAN LUIS POTOSI
+    [idmunicalc_locked] => SAN LUIS POTOSI
+    [seccion] => 790
+    [cel] => 4443685126
+    [telpart] => 
+    [teloficina] => 
+    [email] => 
+    [facebook] => 
+    [twitter] => 
+    [instag] => 
+    [observacion] => 
+    [estatus] => ACTIVO
+    [edo_form] => SAN LUIS POTOSI
+    [distfed_form] => 5
+    [tipo_form] => 
+    [num_ruta] => 
+    [estrucasoc] => JESUS IVAN DOMINGUEZ TORRES
+    [cargo_proponente] => DESCONOCIDO
+    [tel_proponente] => 4441579563
+    [figura] => distloc
+    [tiporeg] => NORMAL
+)
+
+FILES:
+Array
+(
+    [foto] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+    [foto_ine] => Array
+        (
+            [name] => istockphoto-1200677760-612x612-men.jpg
+            [full_path] => istockphoto-1200677760-612x612-men.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Users\CGIA-24\AppData\Local\Temp\php2210.tmp
+            [error] => 0
+            [size] => 24493
+        )
+
+)
+
+POST:
+Array
+(
+    [csrf] => 6991484cde107720ee056712638f4c30d17f9675a1a53e2c28f245bd55db49aa
+    [id] => 0
+    [copia_credelec] => SI
+    [fecha_form] => 2026-03-17
+    [folio_form] => 1238
+    [paterno] => JONGUITUD
+    [materno] => INFANTE
+    [nombre] => ANACLARA
+    [dianac] => 09
+    [mesnac] => 12
+    [yearnac] => 1981
+    [genero] => F
+    [clave_elector] => 123456789123658970
+    [escolaridad] => posgrado
+    [afinidad] => PT
+    [otro] => 
+    [calle] => AVANZADA
+    [numext] => 666
+    [numint] => 
+    [cp] => 78260
+    [colonia] => FORESTA DE TEQUIS
+    [idedo] => SAN LUIS POTOSI
+    [idmunicalc_locked] => SAN LUIS POTOSI
+    [seccion] => 790
+    [cel] => 4443685127
+    [telpart] => 
+    [teloficina] => 
+    [email] => 
+    [facebook] => 
+    [twitter] => 
+    [instag] => 
+    [observacion] => 
+    [estatus] => ACTIVO
+    [edo_form] => SAN LUIS POTOSI
+    [distfed_form] => 5
+    [tipo_form] => 
+    [num_ruta] => 
+    [estrucasoc] => JESUS IVAN DOMINGUEZ TORRES
+    [cargo_proponente] => DESCONOCIDO
+    [tel_proponente] => 4441579563
+    [figura] => distloc
+    [tiporeg] => NORMAL
+)
+
+FILES:
+Array
+(
+    [foto] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+    [foto_ine] => Array
+        (
+            [name] => istockphoto-1389348844-612x612-woman.jpg
+            [full_path] => istockphoto-1389348844-612x612-woman.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\Users\CGIA-24\AppData\Local\Temp\php1169.tmp
+            [error] => 0
+            [size] => 30624
+        )
+
+)
+

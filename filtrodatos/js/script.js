@@ -111,7 +111,7 @@ $(function () {
         'crear',
         {
           text: '<i class="bi bi-box-arrow-up"></i> Exportar registros',
-          className: 'btn btn-info',
+          className: 'btn btn-dark',
           action: () => {
             const modalEl2 = document.getElementById('modalExportar');
             if (modalEl2) {

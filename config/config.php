@@ -44,8 +44,8 @@ if (!defined('APP_DEBUG')) {
 
 define('DB_DSN',  'mysql:host=localhost;dbname=elec2025;charset=utf8mb4');
 define('DB_USER', 'root');
-define('DB_PASS', ''); // <-- localhost
-//define('DB_PASS', 'Pvem_2@26'); // <-- producción
+//define('DB_PASS', ''); // <-- localhost
+define('DB_PASS', 'Pvem_2@26'); // <-- producción
 
 /*
 Generar un hash (fingerprint) usando:

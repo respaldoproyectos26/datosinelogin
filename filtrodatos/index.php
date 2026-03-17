@@ -48,12 +48,12 @@ require_once path_join(APP_ROOT, 'includes', 'headerfiltrodatos.php');
                 </select>
             </div>
 
-            <div class="col-4">
+            <!-- <div class="col-4">
                 <label for="filtro_estado">Estado:</label>
                 <select class="form-select" id="filtro_estado">
                     <option value="">Todos</option>
                 </select>
-            </div>
+            </div> -->
 
             <div class="col-4">
                 <label for="filtro_municalc">Municipio:</label>
@@ -86,7 +86,7 @@ require_once path_join(APP_ROOT, 'includes', 'headerfiltrodatos.php');
                             <th>Paterno</th>
                             <th>Materno</th>
                             <th>Estado</th>
-                            <th>Municipio/Alcaldía</th>
+                            <th>Municipio</th>
                             <th>Sección</th>
                             <th>Foto</th>
                             <th>Acciones</th>

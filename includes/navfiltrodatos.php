@@ -209,16 +209,23 @@ function render_nav_items(bool $isSidebar = false) { ?>
       <i class="bi bi-clipboard-fill"></i> <span>Lista de Permisos</span>
     </a>
   </li>
-  <?php endif; ?>
 
-  <!-- GESTIÓN USUARIOS -->
-  <?php # if (auth()->can('ver_usuarios')): ?>
   <li class="nav-item">
     <a class="nav-link <?= nav_active('usuarios/') ?>"
        href="<?= app_url('usuarios/') ?>">
       <i class="bi bi-clipboard-fill"></i> <span>Gestión de Usuarios</span>
     </a>
-  </li>
+  </li>  
+  <?php endif; ?>
+
+  <!-- GESTIÓN USUARIOS -->
+  <?php # if (auth()->can('ver_usuarios')): ?>
+  <!-- <li class="nav-item">
+    <a class="nav-link <?= nav_active('usuarios/') ?>"
+       href="<?= app_url('usuarios/') ?>">
+      <i class="bi bi-clipboard-fill"></i> <span>Gestión de Usuarios</span>
+    </a>
+  </li> -->
   <?php # endif; ?>
 
   <!-- GRÁFICOS -->

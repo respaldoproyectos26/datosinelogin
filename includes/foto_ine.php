@@ -16,9 +16,11 @@ $inePlaceholder = asset('assets/img/ine-placeholder.jpg');
     <div id="copiaIneBlock" class="col-12 col-md-8 d-none align-items-center gap-3">
       <div class="text-center">
         <img id="ineFotoPreview"
-             src="<?= htmlspecialchars($inePlaceholder) ?>"
-             alt="INE"
-             style="width:160px;height:110px;object-fit:cover;border-radius:10px;border:1px solid rgba(255,255,255,.35);">
+        src =""
+            src="<?= htmlspecialchars($inePlaceholder) ?>"
+            data-default-src="<?= htmlspecialchars($inePlaceholder) ?>"
+            alt="INE"
+            style="width:160px;height:110px;object-fit:cover;border-radius:10px;border:1px solid rgba(255,255,255,.35);">
       </div>
 
       <div class="flex-grow-1">

@@ -127,9 +127,9 @@ header("Pragma: no-cache"); // Para navegadores antiguos
     <div style="text-align: justify !important; padding-bottom:30px;">
     •	Estado de residencia
     <br>
-    •	Municipio o alcaldía
+    •	Municipio
     <br>
-    •	Sección a la que pertenece en base a su municipio o alcaldía
+    •	Sección a la que pertenece en base a su municipio
     <br>
     •	Apellido paterno
     <br>

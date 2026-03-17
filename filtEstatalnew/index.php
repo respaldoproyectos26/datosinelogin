@@ -57,12 +57,12 @@ require_once '../includes/headerfiltrodatos.php';
                 </select>
             </div>
 
-            <div class="col-4">
+            <!-- <div class="col-4">
                 <label for="filtro_estado">Estado:</label>
                 <select class="form-select" id="filtro_estado">
                     <option value="">Todos</option>
                 </select>
-            </div>
+            </div> -->
 
             <div class="col-4">
                 <label for="filtro_municalc">Municipio:</label>

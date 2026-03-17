@@ -99,7 +99,7 @@
 
   <div class="col-12 col-md-4">
     <label for="clave_elector" class="form-label">Clave de Elector *</label>
-    <input type="text" name="clave_elector" id="clave_elector" class="form-control text-center" required>
+    <input type="text" name="clave_elector" id="clave_elector" class="form-control text-center" maxlength="18" required>
   </div>
 
   <div class="col-12 col-md-4">

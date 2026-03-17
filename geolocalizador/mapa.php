@@ -61,7 +61,7 @@ $geojsonBase = rtrim(BASE_URL,'/') . '/geojson'; // ideal: crea una constante GE
       <div class="col-md-6 mb-2">
         <label for="filtro_estado" class="form-label">ESTADO</label>
         <select id="filtro_estado" class="form-select">
-          <option value="" selected>Elegir estado</option>
+          <!-- <option value="" selected>Elegir estado</option> -->
           <option value="24">SAN LUIS POTOSÍ</option>
         </select>
       </div>

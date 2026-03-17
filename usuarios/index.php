@@ -73,7 +73,7 @@ require_once path_join(APP_ROOT, 'includes', 'headerfiltrodatos.php');
       </div>
       <div class="modal-footer">
         <button class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
-        <button class="btn btn-primary" type="submit">Guardar</button>
+        <button class="btn btn-success" type="submit">Guardar</button>
       </div>
     </form>
   </div>

@@ -56,7 +56,7 @@ redirect('gestion_roles.php');
             <textarea name="label" id="label" class="form-control" required></textarea>
         </div>
 
-        <button class="btn btn-primary">Guardar</button>
+        <button class="btn btn-success">Guardar</button>
         <a href="visorreg/" class="btn btn-secondary">Regresar</a>
     </form>
 

@@ -31,6 +31,6 @@ $roles_usuario = $stmt->fetchAll(PDO::FETCH_COLUMN);
     </div>
   <?php endforeach; ?>
   <div class="d-flex justify-content-center mt-3">
-    <button class="btn btn-primary btn-sm">Guardar cambios</button>
+    <button class="btn btn-success btn-sm">Guardar cambios</button>
   </div>
 </form>

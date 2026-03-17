@@ -1,7 +1,7 @@
 </div> <!-- Cierra main-container -->
 
 <footer class="text-center">
-  <p class="mb-0">&copy; <?= date('Y') ?> Todos los derechos reservados. - v1.1.0</p>
+  <p class="mb-0">&copy; <?= date('Y') ?> Todos los derechos reservados. - v1.3.0</p>
 </footer>
 
 <!-- JS base -->
@@ -23,6 +23,20 @@
       $('.dataTable').each(function(){
         try { $(this).DataTable().columns.adjust().draw(false); } catch(e){}
       });
+    }
+  }
+
+  function resetFotoINE() {
+    const input = document.getElementById('foto_ine');
+    const preview = document.getElementById('ineFotoPreview');
+
+    if (input) {
+        input.value = ''; // Limpia el archivo seleccionado
+    }
+
+    if (preview) {
+        const defaultSrc = preview.getAttribute('data-default-src');
+        preview.src = defaultSrc; // Regresa al placeholder
     }
   }
 
@@ -108,6 +122,10 @@
         if (text) a.setAttribute('aria-label', text);
       }
     });
+  });
+
+  window.addEventListener('load', function () {
+    resetFotoINE();
   });
 </script>
 

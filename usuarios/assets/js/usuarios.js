@@ -20,7 +20,7 @@ $(function(){
           const id = row.id;
           return `
             <div class="d-flex gap-1">
-              <button class="btn btn-sm btn-primary btnEdit" data-id="${id}">Editar</button>
+              <button class="btn btn-sm btn-success btnEdit" data-id="${id}">Editar</button>
               <button class="btn btn-sm btn-danger btnDel" data-id="${id}">Eliminar</button>
             </div>`;
         }
