@@ -40,9 +40,9 @@ function render_nav_items(bool $isSidebar = false) { ?>
              href="<?= app_url('filtDistLoc/') ?>">
         <i class="bi bi-card-checklist"></i> Rep. Distrito Local</a></li>
 
-      <li><a class="dropdown-item text-white <?= nav_active('filtEstatal/') ?>"
+      <!-- <li><a class="dropdown-item text-white <?= nav_active('filtEstatal/') ?>"
              href="<?= app_url('filtEstatal/') ?>">
-        <i class="bi bi-card-checklist"></i> Otro</a></li>
+        <i class="bi bi-card-checklist"></i> Otro</a></li> -->
 
       <li><a class="dropdown-item text-white <?= nav_active('filtrodatos/') ?>"
              href="<?= app_url('filtrodatos/') ?>">

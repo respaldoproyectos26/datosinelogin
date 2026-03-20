@@ -1,7 +1,7 @@
 </div> <!-- Cierra main-container -->
 
 <footer class="text-center mt-auto py-3 text-light bg-dark">
-  <p class="mb-0">&copy; <?= date('Y') ?> Todos los derechos reservados. - v1.3.0</p>
+  <p class="mb-0">&copy; <?= date('Y') ?> Todos los derechos reservados. - v1.4.0</p>
 </footer>
 
 <!-- ================== JS BASE ================== -->
