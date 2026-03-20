@@ -62,8 +62,7 @@ require_once path_join(APP_ROOT, 'includes', 'headerfiltrodatos.php');
 
         <div class="mb-2">
           <label class="form-label">Estado</label>
-          <input type="text" class="form-control" name="estado" id="u_estado" maxlength="25" required autocomplete="off">
-          <div class="form-text">Ej: TODOS / SAN LUIS POTOSI</div>
+          <input type="text" class="form-control" name="estado" id="u_estado" maxlength="25" readonly required>
         </div>
 
         <div class="mb-2">

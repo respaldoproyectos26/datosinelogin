@@ -39,10 +39,74 @@
 
   <!-- Municipio -->
   <?php if (show_field('show_municipio_form')): ?>
-    <div class="col-md-2">
+    <div class="col-md-4">
+      <label class="form-label" for="munic_form">Municipio:</label>
+      <select class="form-select" id="munic_form" name="munic_form">
+        <option value="">Seleccione</option>
+        <option value="AHUALULCO">AHUALULCO</option>
+        <option value="ALAQUINES">ALAQUINES</option>
+        <option value="AQUISMON">AQUISMON</option>
+        <option value="ARMADILLO DE LOS INFANTE">ARMADILLO DE LOS INFANTE</option>
+        <option value="CARDENAS">CARDENAS</option>
+        <option value="CATORCE">CATORCE</option>
+        <option value="CEDRAL">CEDRAL</option>
+        <option value="CERRITOS">CERRITOS</option>
+        <option value="CERRO DE SAN PEDRO">CERRO DE SAN PEDRO</option>
+        <option value="CIUDAD DEL MAIZ">CIUDAD DEL MAIZ</option>
+        <option value="CIUDAD FERNANDEZ">CIUDAD FERNANDEZ</option>
+        <option value="TANCANHUITZ">TANCANHUITZ</option>
+        <option value="CIUDAD VALLES">CIUDAD VALLES</option>
+        <option value="CIUDAD VALLES">CIUDAD VALLES</option>
+        <option value="CHARCAS">CHARCAS</option>
+        <option value="EBANO">EBANO</option>
+        <option value="GUADALCAZAR">GUADALCAZAR</option>
+        <option value="HUEHUETLAN">HUEHUETLAN</option>
+        <option value="LAGUNILLAS">LAGUNILLAS</option>
+        <option value="MATEHUALA">MATEHUALA</option>
+        <option value="MEXQUITIC DE CARMONA">MEXQUITIC DE CARMONA</option>
+        <option value="MOCTEZUMA">MOCTEZUMA</option>
+        <option value="RAYON">RAYON</option>
+        <option value="RIOVERDE">RIOVERDE</option>
+        <option value="SALINAS">SALINAS</option>
+        <option value="SAN ANTONIO">SAN ANTONIO</option>
+        <option value="SAN CIRO DE ACOSTA">SAN CIRO DE ACOSTA</option>
+        <option value="SAN LUIS POTOSI">SAN LUIS POTOSI</option>
+        <option value="SAN MARTIN CHALCHICUAUTLA">SAN MARTIN CHALCHICUAUTLA</option>
+        <option value="SAN NICOLAS TOLENTINO">SAN NICOLAS TOLENTINO</option>
+        <option value="SAN VICENTE TANCUAYALAB">SAN VICENTE TANCUAYALAB</option>
+        <option value="SANTA CATARINA">SANTA CATARINA</option>
+        <option value="SANTA MARIA DEL RIO">SANTA MARIA DEL RIO</option>
+        <option value="SANTO DOMINGO">SANTO DOMINGO</option>
+        <option value="SOLEDAD DE GRACIANO SANCHEZ">SOLEDAD DE GRACIANO SANCHEZ</option>
+        <option value="TAMASOPO">TAMASOPO</option>
+        <option value="TAMAZUNCHALE">TAMAZUNCHALE</option>
+        <option value="TAMPACAN">TAMPACAN</option>
+        <option value="TAMPAMOLON CORONA">TAMPAMOLON CORONA</option>
+        <option value="TAMUIN">TAMUIN</option>
+        <option value="TANLAJAS">TANLAJAS</option>
+        <option value="TANQUIAN DE ESCOBEDO">TANQUIAN DE ESCOBEDO</option>
+        <option value="TIERRA NUEVA">TIERRA NUEVA</option>
+        <option value="VANEGAS">VANEGAS</option>
+        <option value="VENADO">VENADO</option>
+        <option value="VILLA DE ARISTA">VILLA DE ARISTA</option>
+        <option value="VILLA DE ARRIAGA">VILLA DE ARRIAGA</option>
+        <option value="VILLA DE GUADALUPE">VILLA DE GUADALUPE</option>
+        <option value="VILLA DE LA PAZ">VILLA DE LA PAZ</option>
+        <option value="VILLA DE RAMOS">VILLA DE RAMOS</option>
+        <option value="VILLA DE REYES">VILLA DE REYES</option>
+        <option value="VILLA HIDALGO">VILLA HIDALGO</option>
+        <option value="VILLA JUAREZ">VILLA JUAREZ</option>
+        <option value="AXTLA DE TERRAZAS">AXTLA DE TERRAZAS</option>
+        <option value="XILITLA">XILITLA</option>
+        <option value="ZARAGOZA">ZARAGOZA</option>
+        <option value="EL NARANJO">EL NARANJO</option>
+        <option value="MATLAPA">MATLAPA</option>
+      </select>
+    </div>    
+    <!-- <div class="col-md-2">
       <label class="form-label">Municipio</label>
       <input type="text" name="munic_form" id="munic_form" class="form-control">
-    </div>
+    </div> -->
   <?php endif; ?>
 
   <!-- Tipo Nombramiento (un solo select) -->

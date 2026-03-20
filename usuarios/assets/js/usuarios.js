@@ -35,7 +35,7 @@ $(function(){
     $('#userModalTitle').text('Nuevo usuario');
     $('#u_id').val('');
     $('#u_usuario').val('');
-    $('#u_estado').val('TODOS');
+    $('#u_estado').val('SAN LUIS POTOSI');
     $('#u_password').val('');
     modal.show();
   });

@@ -229,14 +229,14 @@ function render_nav_items(bool $isSidebar = false) { ?>
   <?php # endif; ?>
 
   <!-- GRÁFICOS -->
-  <?php if (auth()->can('ver_graficos')): ?>
+  <!-- <?php if (auth()->can('ver_graficos')): ?>
   <li class="nav-item">
     <a class="nav-link <?= nav_active('graficos.php') ?>"
        href="<?= app_url('graficos.php') ?>">
       <i class="bi bi-bar-chart-line"></i> <span>Gráficos</span>
     </a>
   </li>
-  <?php endif; ?>
+  <?php endif; ?> -->
 
   <!-- ROLES -->
   <?php if (auth()->can('ver_panel_roles')): ?>

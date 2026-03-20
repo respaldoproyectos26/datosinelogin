@@ -109,18 +109,18 @@ $(function () {
       dom: 'lBfrtip',
       buttons: [
         'crear',
-        {
-          text: '<i class="bi bi-box-arrow-up"></i> Exportar registros',
-          className: 'btn btn-dark',
-          action: () => {
-            const modalEl2 = document.getElementById('modalExportar');
-            if (modalEl2) {
-              new bootstrap.Modal(modalEl2).show();
-            } else {
-              window.location.href = '../exportartablas/';
-            }
-          }
-        }
+        // {
+        //   text: '<i class="bi bi-box-arrow-up"></i> Exportar registros',
+        //   className: 'btn btn-dark',
+        //   action: () => {
+        //     const modalEl2 = document.getElementById('modalExportar');
+        //     if (modalEl2) {
+        //       new bootstrap.Modal(modalEl2).show();
+        //     } else {
+        //       window.location.href = '../exportartablas/';
+        //     }
+        //   }
+        // }
       ],
       language: {
         url: "https://cdn.datatables.net/plug-ins/1.13.4/i18n/es-ES.json"
